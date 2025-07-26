@@ -8,7 +8,7 @@ The goal of this repo is to reinforce understanding through writing, experimenta
 
 ## Chapters
 1. [**Preface and Overview**](./Chapters/01/README.md)
-2. [**Bayesian Inference**]()
+2. [**Bayesian Inference**](./Chapters/02/README.md)
 3. [**Statistical Foundations and Summary Statistics**]()
 4. [**Linear Regression**]()
 5. [**Bayesian Linear Regression**]()
